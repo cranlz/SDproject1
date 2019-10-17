@@ -1,0 +1,9 @@
+Software Design Project 1
+Use Cases
+•	As a user, I want to add a new customer into the system. 
+	o	An error should display if there are any blanks or incorrect data.
+•	As a user, I want to add a purchase from a customer into the system. 
+	o	An error should display if there are any blanks or incorrect data.
+•	As a user, I want to add a new product into the system. 
+	o	An error should display if there are any blanks or incorrect data.
+
